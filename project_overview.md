@@ -9,7 +9,7 @@ learned in class: you will apply statistical methods in order to shed light
 on a question you find interesting. You will need to choose your question,
 identify a dataset that you can use, develop an analysis plan, execute your
 analysis plan, and then interpret your results. Your analysis must involve
-multiple regression analysis in some way, but beyond that you have broad
+regression analysis in some way, but beyond that you have broad
 flexibility. 
 
 You may work in groups of up to four students (smaller groups are fine, too).
@@ -59,10 +59,10 @@ It is worth 25 points: Introduction and Data Exploration will be worth 10 points
 
 Your report should include in-text citations (and accompanying bibliography) when you rely on external resources (e.g., if your dataset is taken from a published paper, you should cite it), but in general when you rely
 on things you learned in class you do not need to provide citations. You can adhere to whatever standards you prefer (e.g., APA).
-I suggest you prepare your report in LaTeX, but you can use whatever tool
+We suggest you prepare your report in LaTeX, but you can use whatever tool
 you prefer so long as it produces a PDF. The length of the report will vary
 substantially depending on how you typeset it and how many figures/tables
-you include, but each of your sections should contain no fewer than three
+you include, but each of your five sections should contain no fewer than three
 paragraphs of written text (although they may be appreciably longer than
 that).
 
