@@ -41,8 +41,8 @@ After addressing any feedback, the PR should be closed and the branch should be 
 ### Part 1)
 - The report for Part 1 is due 11/16/2025 at 11:59 PM. The report should be uploaded to Gradescope at this time and the pull request (PR) from your branch to main should be opened by this time as well (will be part of the Gradescope submission). Remember that your report must also be in the `\reports` folder at the time of your PR.
     - This part of the project will be peer reviewed. Don't forget to add your peer reviewers, Dr. Kessler, and Shaleni as reviewers on your PR!
-- On 11/17/2025 you will be giving a 5 minute (think 3 slide) presentation on your project question, data, EDA, and proposal for analysis. 
-- You will be assigned a project to peer-review. By 11/18/2025 at 11:59 PM you should have made at least two thoughtful comments on the PR of the project you are reviewing. Links to these comments will need to be submitted to Gradescope. It is encouraged to clone the repository and see if the work that has been done so far is reproducible!
+- On 11/17/2025 you will be giving a 5 minute presentation (aim for 3 slides) on your project question, data, exploratory analyses, and proposal for analysis. 
+- You will be assigned a project to peer-review. By 11/18/2025 at 11:59 PM you should have made at least two thoughtful comments on the PR of the project you are reviewing. Links to these comments will need to be submitted to Gradescope. You are encouraged to clone the repository and see if the work that has been done so far is reproducible!
 
 ### Part 2)
 - The report for Part 2, your final project report, is due 12/03/2025 at 11:59 PM. As in Part 1, The report should be uploaded to Gradescope at this time and the pull request (PR) from your branch to main should be opened by this time as well, with a copy of the report in the `\reports` folder. 
@@ -52,8 +52,7 @@ After addressing any feedback, the PR should be closed and the branch should be 
 ## What to Do
 
 1) **Set up your repository**  
-    - Clone or copy this template repository. 
-    - Use the same folder structure and naming conventions.
+    - Create a new repository using this one as a template (look for the blue button at the top right). 
     - Make sure Dr. Kessler (@dankessler) and Shaleni Kovach (@Shalenik) are invited to the repository.
 2) **Review existing documentation**
     - Each folder in this repository contains a README that outlines the use and expectations for that folder. It is recommended to review these *before* starting to avoid unnecessary rework.

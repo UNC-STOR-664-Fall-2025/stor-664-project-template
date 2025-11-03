@@ -12,24 +12,26 @@ analysis plan, and then interpret your results. Your analysis must involve
 multiple regression analysis in some way, but beyond that you have broad
 flexibility. 
 
-You may work in groups of up to three students; students in the
-same group will receive the same grade. If you prefer to work in a group
-of two or by yourself, that is fine, too). While all students in a group are jointly responsible for the work, it is acceptable to divide the workload in
-a way that all group members feel is fair, e.g., having one member of the
-group focus on code/results and another member focus on writing.
+You may work in groups of up to four students (smaller groups are fine, too).
+Students in the same group will receive the same grade. While all students in a
+group are jointly responsible for the work, it is acceptable to divide the
+workload in a way that all group members feel is fair, e.g., having one member
+of the group focus on code/results and another member focus on writing.
 
-To keep the project on track, it will be completed in two parts: (1) Introduction and Data Exploration, and (2) Analysis, Results, and Discussion. Each part will have its own deliverables and deadlines, and you will receive feedback after each submission. In essence, you will be building your report in stages, and by the end of the semester you will have written a concise, well-structured analytic project that answers your chosen question with a well-structured and reproducible repository to share your process.
+To keep the project on track, it will be completed in two parts: (1)
+Introduction and Data Exploration, and (2) Analysis, Results, and Discussion.
+Each part will have its own deliverables and deadlines. By the end of the
+semester you will have written a concise, well-structured analytic project that
+answers your chosen question with a well-structured and reproducible repository
+to share your process.
 
-As you proceed, you may choose to revise earlier sections to
-accord with what you do later, but I encourage you to reflect on how this
-process accords (or doesn’t) with the way statisticians generally understand
-the scientific method.
-
-Please prepare your report as a two different documents; at each deadline you will submit the your report as a PDF. The sections, their suggested content, and deadlines (all 11:59 PM ET) are as follows. We will endeavor to give you prompt feedback on your project after each submission so that you know if you are on the right track.
+Please prepare your report as two different documents; at each deadline you will
+submit your report as a PDF. The sections, their suggested content, and
+deadlines (all 11:59 PM ET) are as follows.
 
 ---
 
-1) Introduction and Data Exploration (due Sunday 11/16/2025)
+1) (i) Introduction and (ii) Data Exploration (due Sunday 11/16/2025)
 - Determining what question you want to answer
   - What is your null hypothesis(es)?
 - Identifying your dataset
@@ -38,7 +40,7 @@ Please prepare your report as a two different documents; at each deadline you wi
 - Pointing out and addressing any concerns about your data's ability to answer the question (data wrangling)
 - Proposing an analysis plan for your data
 
-2) Analysis, Results, and Discussion (due Wednesday 12/3/2025)
+2) (iii) Analysis, (iv) Results, and (v) Discussion (due Wednesday 12/3/2025)
 - Carrying out your full statistical analysis regarding your hypothesis
 - Discussing your analytical decisions (why did you choose your models, how did you account for any limitations)
 - Examining your results with figures and/or tables
@@ -53,12 +55,11 @@ Please prepare your report as a two different documents; at each deadline you wi
 ## Grading 
 
 The project will count for 25% of your final grade in the class.
-It is worth 25 points: Introduction and Data Exploration will be worth 10 points, Analysis, Results, and Discussion will be worth 10 points, and the remaining 5 points will be distributed depending on your repository, peer-reviewing, and presentation).
+It is worth 25 points: Introduction and Data Exploration will be worth 10 points, Analysis, Results, and Discussion will be worth 10 points, and the remaining 5 points will be distributed depending on your repository, peer-reviewing, and presentation.
 
 Your report should include in-text citations (and accompanying bibliography) when you rely on external resources (e.g., if your dataset is taken from a published paper, you should cite it), but in general when you rely
-on things you learned in class you do not need to cite the course textbook
-or lecture. You can adhere to whatever standards you prefer (e.g., APA).
-I suggest you prepare your report in LATEX, but you can use whatever tool
+on things you learned in class you do not need to provide citations. You can adhere to whatever standards you prefer (e.g., APA).
+I suggest you prepare your report in LaTeX, but you can use whatever tool
 you prefer so long as it produces a PDF. The length of the report will vary
 substantially depending on how you typeset it and how many figures/tables
 you include, but each of your sections should contain no fewer than three
