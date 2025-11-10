@@ -19,7 +19,7 @@ workload in a way that all group members feel is fair, e.g., having one member
 of the group focus on code/results and another member focus on writing.
 
 To keep the project on track, it will be completed in two parts: (1)
-Introduction and Data Exploration, and (2) Analysis, Results, and Discussion.
+Introduction and Data Exploration, and (2) Analysis & Results, and Discussion.
 Each part will have its own deliverables and deadlines. By the end of the
 semester you will have written a concise, well-structured analytic project that
 answers your chosen question with a well-structured and reproducible repository
@@ -40,7 +40,7 @@ deadlines (all 11:59 PM ET) are as follows.
 - Pointing out and addressing any concerns about your data's ability to answer the question (data wrangling)
 - Proposing an analysis plan for your data
 
-2) (iii) Analysis, (iv) Results, and (v) Discussion (due Wednesday 12/3/2025)
+2) (iii) Analysis & Results, and (iv) Discussion (due Wednesday 12/3/2025)
 - Carrying out your full statistical analysis regarding your hypothesis
 - Discussing your analytical decisions (why did you choose your models, how did you account for any limitations)
 - Examining your results with figures and/or tables
@@ -55,7 +55,7 @@ deadlines (all 11:59 PM ET) are as follows.
 ## Grading 
 
 The project will count for 25% of your final grade in the class.
-It is worth 25 points: Introduction and Data Exploration will be worth 10 points, Analysis, Results, and Discussion will be worth 10 points, and the remaining 5 points will be distributed depending on your repository, peer-reviewing, and presentation.
+It is worth 25 points: Part 1 (Introduction and Data Exploration) will be worth 10 points, Part 2 (Analysis & Results, and Discussion) will be worth 10 points, and the remaining 5 points will be distributed depending on your repository, peer-reviewing, and presentation.
 
 Your report should include in-text citations (and accompanying bibliography) when you rely on external resources (e.g., if your dataset is taken from a published paper, you should cite it), but in general when you rely
 on things you learned in class you do not need to provide citations. You can adhere to whatever standards you prefer (e.g., APA).

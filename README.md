@@ -6,7 +6,7 @@ The project will be completed in two stages:
 
 **1) Introduction and Data Exploration (due Sunday 11/16/2025)**
 
-**2) Analysis, Results, and Discussion (due Wednesday 12/3/2025)**
+**2) Analysis & Results, and Discussion (due Wednesday 12/3/2025)**
 
 In **Part 1)**, you will be:
 - Determining what question you want to answer
